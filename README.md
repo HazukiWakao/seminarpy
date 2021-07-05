@@ -1,1 +1,1 @@
-# seminarpy
+## 清水研Pythonゼミの記録用
